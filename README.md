@@ -23,11 +23,3 @@ Mobile-Friendly: Implement responsive design principles to ensure optimal viewin
 Technologies Used:
 Frontend: HTML, CSS, JavaScript
 Data Storage: Browser's LocalStorage
-Installation & Setup:
-[Provide detailed instructions on how to install and set up the project, including cloning the repository, running the application locally, etc.]
-
-Contributing:
-We welcome contributions from the community! Please refer to the Contribution Guidelines before submitting pull requests or raising issues.
-
-License:
-[Specify the License for the project, e.g., MIT License]
